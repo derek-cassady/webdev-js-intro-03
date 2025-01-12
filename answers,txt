@@ -1,0 +1,11 @@
+Q1: Explain why a number data type added to a string data type returns a string.
+A1:The addition has a concat priorotization before mathematics
+
+Q2:Name a scenario where using the '==' operator could cause a bug.
+A1: It will try to coerce types to be the same which can cause errors
+
+Q3:Name the operator(s) that you find confusing and explain why.
+A1: (||) and (&&) the  truty and falsy outcomes get confusing on which is which
+
+Q4:Explain a situation where you would use the Modulus operator and why.
+A1: Use it for cycling through a range, it helps in time and date calculations, but I'm not very good at those yet, so I still don't fully get it.  I think it basically acts the same way it does with ranges.
